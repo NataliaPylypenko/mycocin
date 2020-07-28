@@ -1,0 +1,21 @@
+/* font-family: "TTTravelsLight"; */
+@font-face {
+  font-family: "TTTravelsLight";
+  //src: url("../../fonts/TTTravelsLight/TTTravels-Light.eot");
+  //src: url("../../fonts/TTTravelsLight/TTTravels-Light.eot?#iefix")format("embedded-opentype"),
+  url("../../fonts/TTTravelsLight/TTTravelsLight.woff") format("woff"),
+  url("../../fonts/TTTravelsLight/TTTravelsLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: "SchnyderCondDemi";
+  //src: url("../../fonts/TTTravelsLight/TTTravels-Light.eot");
+  //src: url("../../fonts/TTTravelsLight/TTTravels-Light.eot?#iefix")format("embedded-opentype"),
+url("../../fonts/SchnyderCondDemi/SchnyderCondDemi.woff") format("woff"),
+url("../../fonts/SchnyderCondDemi/SchnyderCondDemi.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
